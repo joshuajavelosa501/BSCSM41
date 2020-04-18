@@ -1,0 +1,20 @@
+Navigation Bar
+
+https://www.youtube.com/watch?v=QAir1tm72eY&list=PL3pyLl-dgiqBSBsC5O5AQHN1UsUk-60nc&index=2
+https://www.youtube.com/watch?v=zxkz-wPEYbE&list=PL3pyLl-dgiqBSBsC5O5AQHN1UsUk-60nc&index=3
+
+
+Footer
+
+https://www.youtube.com/watch?v=o-cKmAeNJiA&list=PL3pyLl-dgiqBSBsC5O5AQHN1UsUk-60nc&index=7
+https://www.youtube.com/watch?v=jZ2XYDWKENs&list=PL3pyLl-dgiqBSBsC5O5AQHN1UsUk-60nc&index=8
+
+yung iba dito ko na kinuha
+
+https://www.w3schools.com/html/
+https://www.w3schools.com/css/
+
+
+yung mga icons ko dito ko lang kinuha alamin nyo nalang kung san yan nilalagay.
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity-crossorigin="anonymous">
